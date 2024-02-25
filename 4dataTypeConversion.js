@@ -42,3 +42,14 @@ console.log("Type of valueInNum: " + typeof(valueInNum))
 // let valueInNum = Number(score)
 // console.log("valueInNum: " + valueInNum)
 // console.log("Type of valueInNum: " + typeof(valueInNum))
+
+
+
+//number -> string
+// let isLoggedIn = 23
+// console.log("isLoggedIn: " + isLoggedIn)
+// console.log("Type of isLoggedIn: " + typeof(isLoggedIn))
+
+// let booleanIsLoggedIn = String(isLoggedIn)
+// console.log("boolenIsLoggedIn: " + booleanIsLoggedIn)
+// console.log("Type of boolenIsLoggedIn: " + typeof(booleanIsLoggedIn))
